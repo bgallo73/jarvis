@@ -1,2 +1,2 @@
-# jarvis
+# Jarvis
 epic jarvis discord bot
